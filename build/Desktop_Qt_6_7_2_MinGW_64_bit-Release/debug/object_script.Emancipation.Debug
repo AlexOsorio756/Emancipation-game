@@ -1,0 +1,13 @@
+debug/Bart.o
+debug/Character.o
+debug/Enemy.o
+debug/Homero.o
+debug/Obstacle.o
+debug/main.o
+debug/mainwindow.o
+debug/qrc_ImagesEmancipation.o
+debug/qrc_soundsEnmancipation.o
+debug/moc_Character.o
+debug/moc_Homero.o
+debug/moc_Obstacle.o
+debug/moc_mainwindow.o

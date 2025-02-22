@@ -1,0 +1,23 @@
+<RCC>
+    <qresource prefix="/">
+        <file>imagesEmancipation/bartConAtaque.png</file>
+        <file>imagesEmancipation/simpsons house.jfif</file>
+        <file>imagesEmancipation/SpriteHomeroCompleto.png</file>
+        <file>imagesEmancipation/KamehamehaParticle.png</file>
+        <file>imagesEmancipation/BartBullet.png</file>
+        <file>imagesEmancipation/HomeroBullet.png</file>
+        <file>imagesEmancipation/Bart y homero FotosCara.png</file>
+        <file>imagesEmancipation/SkateParkBackGroundOne.png</file>
+        <file>imagesEmancipation/HomeroSkate.png</file>
+        <file>imagesEmancipation/duff-removebg-preview.png</file>
+        <file>imagesEmancipation/Rocket.png</file>
+        <file>imagesEmancipation/skate-removebg-preview.png</file>
+        <file>imagesEmancipation/images-removebg-preview.png</file>
+        <file>imagesEmancipation/skateRail.png</file>
+        <file>imagesEmancipation/HomeroVsTony.png</file>
+        <file>imagesEmancipation/FirstLevelWin.png</file>
+        <file>imagesEmancipation/secondLevelLost.PNG</file>
+        <file>imagesEmancipation/SecondLevelWin.PNG</file>
+        <file>imagesEmancipation/firstLevelLose.PNG</file>
+    </qresource>
+</RCC>

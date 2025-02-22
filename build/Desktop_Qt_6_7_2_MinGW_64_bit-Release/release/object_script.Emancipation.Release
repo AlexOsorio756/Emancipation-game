@@ -1,0 +1,13 @@
+release/Bart.o
+release/Character.o
+release/Enemy.o
+release/Homero.o
+release/Obstacle.o
+release/main.o
+release/mainwindow.o
+release/qrc_ImagesEmancipation.o
+release/qrc_soundsEnmancipation.o
+release/moc_Character.o
+release/moc_Homero.o
+release/moc_Obstacle.o
+release/moc_mainwindow.o

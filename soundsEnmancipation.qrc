@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/sounds">
+        <file>soundsEmancipation/television-closing-theme.mp3</file>
+        <file>soundsEmancipation/television-simpsons.mp3</file>
+        <file>soundsEmancipation/Voicy_Homer Simpson_ Doh 3.mp3</file>
+        <file>soundsEmancipation/ay-caramba.mp3</file>
+        <file>soundsEmancipation/homero_si_canta.mp3</file>
+        <file>soundsEmancipation/Coins_Collecting_01_Sound_Effect_Mp3_315.mp3</file>
+    </qresource>
+</RCC>
