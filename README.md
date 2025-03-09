@@ -15,4 +15,3 @@ PASOS PARA EJECUTAR EMANCIPATION GAME
 4. Buscar en la carpeta el archivo Emancipation.exe y ejecutarlo como administrador
 
 5. El archivo normalmente avisa de una posible vulneracion de virus, pero es porque el juego fue hecho totalmente desde 0 con conocimientos aprendidos en un semestre, nada profesional.
-6.  
